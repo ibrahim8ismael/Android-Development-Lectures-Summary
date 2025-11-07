@@ -1,2 +1,15 @@
-# Android-Development-Lectures-Summary
-Detailed summary of 5 lectures on Android development and Kotlin programming by Dr. Ahmed Tawfik
+# ملخص شامل مفصّل للمحاضرات الخمس - تطوير تطبيقات Android الأصلية
+
+> من أستاذ Dr. Ahmed Tawfik - قسم علوم الحاسبوب
+
+---
+
+## المحاضرة 01: مقدمة البرمجة المتنقلة
+
+### Introduction to Mobile Programming
+
+#### أهداف المقرر:
+
+- التعرف على الفروقات بين تطبيقات الجوال والويب
+- تمييز التطبيقات الهجينة عن التطبيقات الأصلية
+- تعلم لغة Kotlin وتطوير تطبيقات Android
